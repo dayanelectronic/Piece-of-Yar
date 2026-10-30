@@ -1,0 +1,8 @@
+{
+  "name": "قطعه‌یار - سامانه هوشمند مدیریت و فهرست‌بندی قطعات الکترونیک",
+  "description": "سامانه مدیریت موجودی، دسته‌بندی پیشرفته و تگ‌گذاری قطعات الکترونیک با جستجوی هوشمند هوش مصنوعی و مدیریت پروژه BOM",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
